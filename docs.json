@@ -20,7 +20,12 @@
               "quickstart"
             ]
           },
-          "forex-lesson-1"
+          {
+            "group": "Lessons",
+            "pages": [
+              "forex-overview"
+            ]
+          }
         ],
         "icon": "litecoin-sign"
       },
