@@ -9,9 +9,10 @@
   },
   "favicon": "/favicon.svg",
   "navigation": {
-    "tabs": [
+    "dropdowns": [
       {
-        "tab": "Tecnical",
+        "dropdown": "Tecnical",
+        "icon": "litecoin-sign",
         "pages": [
           {
             "group": "Getting Started",
@@ -26,11 +27,11 @@
               "forex-overview"
             ]
           }
-        ],
-        "icon": "litecoin-sign"
+        ]
       },
       {
-        "tab": "Fundamental",
+        "dropdown": "Fundamental",
+        "icon": "f",
         "groups": [
           {
             "group": "Get Startted",
@@ -38,8 +39,7 @@
               "intoduction"
             ]
           }
-        ],
-        "icon": "f"
+        ]
       }
     ]
   },
