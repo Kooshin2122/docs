@@ -9,9 +9,9 @@
   },
   "favicon": "/favicon.svg",
   "navigation": {
-    "tabs": [
+    "dropdowns": [
       {
-        "tab": "Tecnical",
+        "dropdown": "Tecnical",
         "icon": "litecoin-sign",
         "pages": [
           {
@@ -30,7 +30,7 @@
         ]
       },
       {
-        "tab": "Fundamental",
+        "dropdown": "Fundamental",
         "icon": "f",
         "groups": [
           {
